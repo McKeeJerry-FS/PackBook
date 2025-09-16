@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PackBook")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72d6df49815b854640d8dc8982f1200e7b4628f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("PackBook")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PackBook")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
